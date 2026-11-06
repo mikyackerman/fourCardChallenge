@@ -3,6 +3,13 @@
 *.fig
 *.xd
 
+node_modules
+dist
+.env
+design
+AGENTS.md
+CLAUDE.md
+
 # Dependencies
 /node_modules
 /.pnp
